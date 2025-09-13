@@ -9,16 +9,8 @@
     <input type="text" placeholder="Enter Name" name="name" id="name" required>
     <br>
 
-    <label for="mother"><b>Mother_Name</b></label>
-    <input type="text" placeholder="Mother Name" name="mother" id="mother" required>
-    <br>
-
-    <label for="father"><b>Father_Name</b></label>
-    <input type="text" placeholder="Enter Father Name" name="father" id="father" required>
-    <br>
-
-    <label for="mother"><b>Name</b></label>
-    <input type="text" placeholder="Enter Mother Name" name="mother" id="mother" required>
+    <label for="brother"><b>Name</b></label>
+    <input type="text" placeholder="Enter Brother Name" name="brother" id="brother" required>
     <br>
 
     <label for="email"><b>Email</b></label>
